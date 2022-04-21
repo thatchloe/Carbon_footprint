@@ -1,0 +1,8 @@
+Convert From,Convert To,Multiply By
+lbs,tonnes,0.0004536
+kg,tonnes,0.001
+g,tonnes,0.000001
+metric ton,tonnes,0.91
+short ton,tonnes,1.00 
+lbs,kg,0.4536
+tonnes,tonnes,1.00
